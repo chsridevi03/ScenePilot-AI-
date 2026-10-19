@@ -1,0 +1,6 @@
+{
+  "name": "ScenePilot AI",
+  "description": "The vision agent that knows when to look again. An adaptive computer vision system that observes workspaces, localizes meaningful changes, and chooses inspection actions based on visual evidence.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
